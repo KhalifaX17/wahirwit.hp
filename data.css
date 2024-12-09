@@ -97,8 +97,9 @@ footer {
     padding: 10px 0;
     position: relative;
 }
-button1:active {
-    transform: translateY(2px);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-    cursor: pointer;
+h1, h2, h3, h4, h5, h6{
+    color: #fff;
+    margin: 0;
+    padding: 10px 0;
+    text-shadow: 2px 2px 4px #000;
 }

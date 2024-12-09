@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f5f0;
+    background-color: #b8afa4;
     color: #333;
 }
 header {
@@ -95,4 +95,18 @@ footer {
     text-align: center;
     padding: 10px 0;
     position: relative;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+h2{
+    color: #100c0b;
+    margin-top: 10px;
+}
+p{
+    color: #000000;
+    margin-bottom: 10px;
+    text-align: center;
 }
